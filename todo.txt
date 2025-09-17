@@ -1,0 +1,6 @@
+- Website conversion
+- loaded csv gets updated every time its loaded and viewed
+- database?
+- crypto predictions / investment advice - invest low sell high account swap fees
+- ask about crypto predictions via previous data? maybe possible using the models and stuff learned
+
